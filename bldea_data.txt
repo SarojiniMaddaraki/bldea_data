@@ -1,107 +1,172 @@
-1. ABOUT COLLEGE
+ABOUT BLDEA
 
-BLDEA’s V.P. Dr. P.G. Halakatti College of Engineering & Technology (BLDEACET), Vijayapura, is one of the premier engineering institutions under BLDE Association. It offers quality technical education with state-of-the-art infrastructure, experienced faculty, and strong placement support.
+BLDEA (Bijapur Lingayat Education Association) is a major educational organization in North Karnataka with 75+ institutions spanning professional colleges, schools, and research centers.
+Its mission focuses on:
 
-🔷 2. COURSES OFFERED (UG)
+Social and economic transformation through education
 
-Computer Science and Engineering (CSE)
+Empowering women and underprivileged groups
 
-Artificial Intelligence & Machine Learning (AIML)
+Reducing inequality in educational access
 
-Electronics & Communication Engineering (ECE)
+Promoting academic excellence and research
 
-Mechanical Engineering (ME)
+HISTORY OF BLDEA
+Inception (1910–1914)
 
-Civil Engineering (CE)
+Founded on 23 October 1910 by Vachana Pitamaha Dr. P. G. Halakatti, a noted literary figure and social reformer.
 
-Electrical & Electronics Engineering (EEE)
+In 1914, BLDEA took over the New English School, later renamed Siddeshwara Secondary Education School.
 
-🔷 3. ADMISSIONS
+Expansion Period (1942–1960s)
 
-Based on KCET, COMEDK, and Management Quota
+Led by Shri Shri Sanganabasaveshwar Maha Shivayogigalu of Banthanal.
 
-Eligibility: 2nd PUC / 12th with PCM
+Established multiple primary schools, high schools, and colleges.
 
-Documents required: Marks card, Study certificate, Transfer certificate, Aadhar, Photos
+Professional Education Era (1960s)
 
-Contact admissions: 08352-261120
+Shri B. M. Patil expanded BLDEA into professional education.
 
-Email: info@bldeacet.ac.in
+Institutions founded: Engineering, Pharmacy, Nursing, Medical Colleges, and a 1,000-bed teaching hospital.
 
-🔷 4. FEE STRUCTURE (Approx)
+Modern Era (1990s–Today)
 
-CET Quota: ₹58,806 per year
+Dr. M. B. Patil (General Secretary) modernized BLDEA.
 
-ComedK: ₹1,40,000 per year
+Added multiple courses and worked toward the creation of a university.
 
-Management Quota: varies by branch
+BLDE University was established on 29 February 2008.
 
-Hostel Fee: ₹45,000 per year
+Regional Development
 
-Transportation: ₹13,000 – ₹20,000 per year
+BLDEA serves socially and economically backward regions in Vijayapura and Bagalkot.
+It offers inclusive education with no discrimination based on caste, sect, religion, or creed.
 
-🔷 5. CSE FACULTY DETAILS
-Name	Designation	Qualification	Experience	Email
-Dr. Basavaraj Patil	Professor & HOD	Ph.D, M.Tech	18 yrs	hodcse@bldeacet.ac.in
+BLDEA’S V.P. Dr. P.G. Halakatti College of Engineering & Technology (BLDEACET)
 
-Prof. Sunita H	Associate Professor	M.Tech	12 yrs	sunita.h@bldeacet.ac.in
+Located in Vijayapura, Karnataka
 
-Prof. Ramesh S	Assistant Professor	M.Tech	10 yrs	ramesh.s@bldeacet.ac.in
+Established: 1980
 
-Prof. Shwetha M	Assistant Professor	M.Tech	8 yrs	shwetha.m@bldeacet.ac.in
+Campus size: 14.9 acres
 
-Prof. Deepa K	Assistant Professor	M.Tech	7 yrs	deepa.k@bldeacet.ac.in
+Known for industry-oriented engineering education
 
-(Replace with actual values if needed)
+Accreditations
 
-🔷 6. CSE LAB DETAILS
+NBA Accredited
 
-Data Structures Lab
+NAAC Accredited
 
-Algorithms Lab
+ISO 9001:2015 Certified
 
-DBMS Lab
+Approved by AICTE, New Delhi
 
-Web Technology Lab
+Affiliated with VTU, Belagavi
 
-Python Programming Lab
+UNDERGRADUATE PROGRAMS
 
-Machine Learning Lab
+Architecture
 
-Project Lab
+Civil Engineering
 
-Research & Innovation Lab
+Computer Science & Engineering
 
-🔷 7. HOSTEL DETAILS
+Artificial Intelligence & Machine Learning
 
-Separate boys & girls hostels
+Data Science
 
-24×7 security
+Electrical & Electronics Engineering
 
-WiFi enabled
+Electronics & Communication Engineering
 
-Hot water
+Information Science & Engineering
 
-Reading room
+Mechanical Engineering
 
-Shared & single rooms
+Instrumentation Engineering
 
-Mess facility included
+POSTGRADUATE PROGRAMS
 
-🔷 8. PLACEMENT DETAILS
+M.Tech:
 
-Average Package: ₹4.3 LPA
+Computer Science & Engineering
 
-Highest Package: ₹15+ LPA
+Digital Communication & Networking
 
-Recruiters: TCS, Wipro, Infosys, Accenture, IBM, Cognizant, Mindtree, Bosch
+Machine Design
 
-Training: Aptitude, coding, communication, mock interviews
+Microelectronics & Control Systems
 
-🔷 9. ADMIN CONTACTS
+Structural Engineering
 
+Environmental Engineering
+
+MBA
+
+MCA
+
+VISION
+
+To emerge as a widely acknowledged center in technical education and research to meet societal needs with a futuristic outlook.
+
+MISSION
+
+Provide strong foundations in science and engineering
+
+Promote ethics and social values
+
+Encourage creativity, innovation, and research
+
+CORE VALUES
+
+Academic integrity
+
+Service to community
+
+Ethics
+
+Inclusiveness
+
+Entrepreneurship
+
+QUALITY POLICY
+
+Commitment to:
+
+Quality technical education
+
+Flexible and innovative teaching
+
+Ethical standards
+
+Continuous improvement
+
+QUALITY OBJECTIVES
+
+Periodic student/parent feedback
+
+Employer & alumni surveys
+
+Faculty development
+
+Innovative teaching methods
+
+Well-equipped labs
+
+Compliance with AICTE, VTU & Govt. of Karnataka
+
+INSTITUTE CONTACT DETAILS
+
+BLDEA's V.P. Dr. P.G. Halakatti College of Engineering & Technology
+Ashram Road, Vijayapura – 586101
 Phone: 08352-261120
+Fax: 08352-262945
+Email: principal@bldeacet.ac.in
 
-Email: info@bldeacet.ac.in
+Website: bldeacet.ac.in
 
-Address: Ashram Road, Vijayapura, Karnataka – 586103
+Admissions Contact:
+Phone: 9513398031 / 9513398032
+Email: admissions@bldeacet.ac.in
